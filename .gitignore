@@ -1,7 +1,6 @@
 # Created by https://www.gitignore.io/api/eclipse,java,maven
 
 ### IntelliJ ###
-.idea/
 .idea
 *.iml
 .repo
